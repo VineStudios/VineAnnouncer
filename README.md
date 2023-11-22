@@ -1,2 +1,2 @@
 # vAutoMessage
-The best automessage plugin!
+Soon
