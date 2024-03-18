@@ -1,2 +1,2 @@
-# vAutoMessage
+# VineAnnouncer
 Soon
